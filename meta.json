@@ -1,16 +1,16 @@
 { 
    "licenseType" : "CC BY-SA", 
-   "creatorName" : "Author", 
-   "packageName" : "MyPlugin", 
+   "creatorName" : "LFE", 
+   "packageName" : "MicAudioSource", 
    "includeVersionsInReferences" : "true", 
-   "description" : "v0.0.0 MyPlugin Description", 
+   "description" : "v0.0.0 Send Microphone audio through an AudioSource", 
    "credits" : "", 
    "instructions" : "", 
-   "promotionalLink" : "https://github.com/Author/MyPlugin", 
+   "promotionalLink" : "https://github.com/LFE/MicAudioSource", 
    "programVersion" : "1.19.0.5", 
    "contentList" : [ 
-      "Custom\\Scripts\\Author\\MyPlugin\\MyPlugin.cs"
-   ], 
+      "Custom\\Scripts\\LFE\\MicAudioSource\\MicAudioSource.cs"
+   ],
    "dependencies" : { 
    }
 }
